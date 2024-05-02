@@ -19,5 +19,4 @@ python3 main.py
 ```bash
 python3 -m unittest unittest.py
 ```
-
-![View](image.png)
+![View](view.gif)
